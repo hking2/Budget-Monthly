@@ -28,7 +28,7 @@ body {
 /* HEAD */
 .top {
     height: 45vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url(GC_background.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url(https://user-images.githubusercontent.com/50965054/89140820-a5174e00-d4f7-11ea-8ada-e6f5b65fc864.png);
     background-size: cover;
     background-position: center;
     position: relative;
